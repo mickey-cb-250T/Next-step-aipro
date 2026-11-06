@@ -1,0 +1,6 @@
+{
+  "name": "NextStep AI Pro",
+  "description": "An intelligent career planning, skill intelligence, and portfolio development platform for engineering students and aspiring software professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
